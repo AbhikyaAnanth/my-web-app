@@ -12,6 +12,9 @@ dist
 dist-ssr
 *.local
 
+#manually added so that the .env file we created which is used for API access is not visible in the repo on github 
+.env 
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
