@@ -1,2 +1,7 @@
-# This is my practise app created during my learning of react with typescript all basic learning notes and helpful tips would be added on here 
-# Package Manager being used in yarn and npm ... upcoming notes to come for more information and learning tips 
+# Welcome to My React + TypeScript Learning Journey 🚀
+
+This repository is a creative space where I document my hands-on experience with React and TypeScript. Here, you'll find essential learning notes, helpful tips, and insights as I explore the fundamentals and beyond. 
+
+Stay tuned for updates, as I'll be sharing more resources, examples, and practical advice to make learning fun and effective. Whether you're a beginner or just curious, there's something here for everyone!
+
+Package Managers: Yarn & npm  
